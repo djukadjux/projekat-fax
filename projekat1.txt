@@ -1,2 +1,3 @@
 Danas Ucimo GIT.
 Predmet je Softversko upravljanje prjektima.
+Fakultet informacionih tehnologija.
