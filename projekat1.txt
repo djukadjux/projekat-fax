@@ -1,6 +1,0 @@
-Danas Ucimo GIT.
-<<<<<<< HEAD
-Predmet je Softversko upravljanje prjektima.
-Fakultet informacionih tehnologija.
-=======
->>>>>>> grana1
