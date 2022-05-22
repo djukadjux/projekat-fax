@@ -1,3 +1,4 @@
 - Kreirana baza podataka
 - Kreiran je MVC koncept
 - Kreriana je registraciona strana
+- Kreriana je login strana
